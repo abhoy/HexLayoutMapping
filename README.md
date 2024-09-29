@@ -2,7 +2,9 @@
 
 ## For Details
 
-Exploiting the Extended Neighborhood of Hexagonal Qubit Architecture for Mapping Quantum Circuits
+Refer to our publish work:
+    Abhoy Kole, Kamalika Datta, Indranil Sengupta, and Rolf Drechsler. 2024. Exploiting the Extended Neighborhood of Hexagonal Qubit Architecture for Mapping Quantum Circuits. J. Emerg. Technol. Comput. Syst. Just Accepted (August 2024). https://doi.org/10.1145/3688391
+
 
 ## For Installation
 
